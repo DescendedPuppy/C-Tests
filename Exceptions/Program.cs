@@ -15,7 +15,6 @@ namespace Exceptions
             
             Console.Clear();
             Console.WriteLine("Terminate with <x>");
-            Console.WriteLine("Aaron lutscht gerne schwarze schwänze!");
 
             do
             {
